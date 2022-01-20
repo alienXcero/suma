@@ -9,7 +9,7 @@ void menu(){
 printf("---------------------\n");
 printf("|1.-SUMA   2.-RESTA\n|");
 printf("|3.-MULT   4.-DIV    |\n");
-printf(" --------------------");
+printf(" --------------------\n");
 
 }
 
@@ -34,7 +34,7 @@ printf("Dame otro numero?:");
 scanf("%g",&b);
 
 
-printf("el resultado de la suma es %g",(a+b));
+printf("el resultado de la suma es %g\n",(a+b));
 
 
 
