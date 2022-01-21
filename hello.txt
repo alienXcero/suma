@@ -1,4 +1,8 @@
-esto es una practica de html
+<html>
+<head>
+</head>
+
+</html>
 
 
 
