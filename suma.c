@@ -28,10 +28,10 @@ menu();
 
 
 printf("dame un numero?:");
-scanf("%g",&a);
+scanf("%g",&b);
 
 printf("dame otro numero?:");
-scanf("%g",&b);
+scanf("%g",&a);
 
 
 printf("El resultado de la suma es: %g\n",(a+b));
