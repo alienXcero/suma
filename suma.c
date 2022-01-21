@@ -27,14 +27,14 @@ menu();
 
 
 
-printf("Dame un numero?:");
+printf("dame un numero?:");
 scanf("%g",&a);
 
-printf("Dame otro numero?:");
+printf("dame otro numero?:");
 scanf("%g",&b);
 
 
-printf("el resultado de la suma es %g\n",(a+b));
+printf("El resultado de la suma es: %g\n",(a+b));
 
 
 
